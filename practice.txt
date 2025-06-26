@@ -1,1 +1,1 @@
-"I'm explaining to shubham about git for the first time."
+"I'm explaining to shubham about git for the second time."
