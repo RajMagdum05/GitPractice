@@ -47,7 +47,7 @@ void Rectangle::setBreadth(int b)
 }
 int Rectangle::area()
 {
-    return length*breadth;
+    return breadth*length;
 }
 int Rectangle::perimeter()
 {
