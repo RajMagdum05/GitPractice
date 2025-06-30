@@ -18,6 +18,10 @@ class Rectangle
                 setLength(length);
                 setBreadth(breadth);
             }
+            Rectangle()
+            {
+                cout<<"This is Non-Parameterised Constructor."<<endl;
+            }
             int area();
             int perimeter();
 };
