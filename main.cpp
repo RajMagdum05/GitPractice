@@ -21,6 +21,7 @@ class Rectangle
             Rectangle()
             {
                 cout<<"This is Non-Parameterised Constructor."<<endl;
+                cout<<"This is another sentence"<<endl;
             }
             int area();
             int perimeter();
